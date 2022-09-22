@@ -1,4 +1,3 @@
-
 #include<Servo.h>
 const int pingPin = 7;
 int servoPin = 8;
